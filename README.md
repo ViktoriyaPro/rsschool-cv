@@ -1,2 +1,2 @@
-# r0
+# rsschool-cv
 
